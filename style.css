@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+.etoile{
+    color:yellow;
+    background-color:black;
+    border:2px solid black;
+    border-radius:2px;
+    padding: 2px;
+}
+.vert{
+    color: white;
+    background-color: green;
+    border-radius: 2px;
+    padding: 3px;
+}
+.rouge{
+    color: white;
+    background-color: red;
+    border-radius: 2px;
+    padding: 3px;
+}
+.title{
+    font-size: 1.3em;
+    border: 2px solid black;
+    margin: 0 0 0 0;
+    font-weight: bold;
+}
+.txt{
+    font-size: 1.2em;
+}
+table{
+    color: blue;
+}
