@@ -1,11 +1,8 @@
 
    
-
-    
-
 <?php
     class Reservation{
-        // ATTRIBUT
+        // ATTRIBUTS
         private string $idreservation;
         private DateTime $dateDebut;
         private DateTime $dateFin;

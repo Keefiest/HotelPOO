@@ -2,7 +2,7 @@
 
 
 class Client{
-    // ATTRIBUT
+    // ATTRIBUTS
     private string $nom;
     private string $prenom;
     private bool $sexe;

@@ -9,15 +9,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <!-- <style>
-        body{
-            display: flex;
-            justify-content: center;
-            flex-direction: column;
-        }
-    </style> -->
-    
-
 
 <?php
 
